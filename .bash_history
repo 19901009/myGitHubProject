@@ -355,3 +355,182 @@ git add newfile
 cd ../
 git add newfile
 git commit -m "new file"
+ssh -T git@github.com
+git pull
+git status
+ls
+cd myGitHubProject/
+git pull
+git init
+cd ../
+git init
+git config --global user.name ="19901009"
+git config --global user.email ="727941167@qq.com"
+git pull
+git add ./
+git commit -m 'test file'
+git remote add origin git@github.com:19901009/myGitHubProject.git
+git push origin master
+cd myGitHubProject/
+ls
+git commit
+git push newfile
+clear
+git push newfile
+cd newfile
+ls
+git push test.txt
+cd ../
+git log
+ls
+git add myGitHubProject/newfile/test.txt 
+cd myGitHubProject/newfile/
+git add test.txt 
+git commit -m "add a new file"
+cd ../../
+ls
+git remote add origin git@github.com:19901009/myGitHubProject.git
+git push -u origin master
+git pull
+git push -u origin master
+git status
+clear
+git status
+git commit -a
+git config --global user.name ="19901009"
+git config --global user.email ="727941167@qq.com"
+git remote add origin git@github.com:19901009/myGitHubProject.git
+git add README
+ls
+cd myGitHubProject/
+ls
+git add newfile/
+git commit -m "new file"
+ls
+ls -a
+cd .git/
+ls
+cd branches/
+ls
+cd ../
+find -n "master"
+find -name "master"
+cd refs/heads/
+ls
+cd ../
+ls
+ls -a
+cd ../
+cd ../../
+git status
+cd myGitHubProject/
+ls
+vi README.md 
+vi readme.txt
+ls
+git status
+git add readme.txt
+git status
+git commit -m "a new fie is committing"
+git status
+find -name "master"
+cd .git/
+cd refs/heads/
+ls
+tail master 
+cd ../../../
+cd .git/
+ls
+tail index 
+ls
+git status
+git push origin
+clear
+git push origin test:master
+git config --global user.name ="19901009"
+git config --global user.email ="727941167@qq.com"
+git remote add origin git@github.com:19901009/myGitHubProject.git
+git push origin test:master
+git push origin master
+clear
+git push origin master
+ssh -T git@github.com
+cd .ssh/
+ls
+ls -a
+ls
+cd myGitHubProject/
+ls
+ls -a
+cd .git/
+ls
+vi config 
+tail config 
+cd ../../../
+git config --global user.name ="19901009"
+git config --global user.email ="727941167@qq.com"
+ls
+find -name "myGitHubProject"
+ls -a
+cd ./root/
+ls
+cd myGitHubProject/.git/
+tail config 
+cd ../../
+git status
+git push origin master
+ping www.baidu.com
+git push origin master
+clear
+git push origin master
+ssh -T git@github.com:19901009/myGitHubProject.git
+ssh -T git@github.com
+git status
+git add myGitHubProject
+git commit -m 'test'
+git push origin master
+git status
+clear
+git push origin master
+git pull origin master
+clear
+git pull origin master
+git push origin master
+git status
+cd myGitHubProject/
+ls
+ls -a
+cd newfile/
+ls
+cd ../
+cd .git/
+ls
+cd ../
+cd .
+ls
+cd ./
+ls
+clear
+ls
+ls -a
+git add newfile
+git commit -m "a newfile"
+cd ../
+ls -a
+cd ../
+ls
+find -name "myGitHubProject"
+ls -a
+cd ./root/
+ls
+clear
+ls -a
+vi test.txt
+tail test.txt
+cd .git/
+ls
+cd ../
+git status
+git add test.txt
+git commit -m 'a test file'
+git push origin master
