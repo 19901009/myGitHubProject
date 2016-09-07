@@ -534,3 +534,52 @@ git status
 git add test.txt
 git commit -m 'a test file'
 git push origin master
+git status
+git push origin master
+ls -a
+git add test.txt
+git commit -m "t"
+git add .bash_history 
+git commit -m ""
+git commit -m "update"
+git push origin master
+uname
+uname -m
+uname -r
+date
+shutsown ls -a
+ls -a
+ls -all
+ll -all
+ll -a
+clear
+shutdown -h now
+ls -a
+cd .git/
+ls
+cd ../
+ssh -T git@github.com
+git init
+git remote add origin git@github.com:19901009/myGitHubProject.git
+cd ./git
+cd .git/
+ls
+vi abc.txt
+tail -f abc.txt 
+git add abc.txt 
+shutdowm -r now
+shutdown -h now
+ssh -T git@github.com
+cd .git/
+ls
+git add abc.txt 
+git init
+cd ../
+cd myGitHubProject/
+git init
+ls
+git add readme.txt 
+git commit -m "20160907"
+git push
+shutdown -r now
+shutdown -h now
